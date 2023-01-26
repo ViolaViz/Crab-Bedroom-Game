@@ -1,5 +1,0 @@
-git add Crab Game.data.gz
-face:]]Game.data.gz filter=lfs diff=lfs merge=lfs -text
-Crab[[:space:]]Game.data.gz filter=lfs diff=lfs merge=lfs -text
-Crab[[:space:]]Bedroom filter=lfs diff=lfs merge=lfs -text
-Crab[[:space:]]Game filter=lfs diff=lfs merge=lfs -text
